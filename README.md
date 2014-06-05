@@ -9,3 +9,5 @@ Another change, on a branch this time.
 PR change
 
 Hey there changes
+
+Change by a stranger
