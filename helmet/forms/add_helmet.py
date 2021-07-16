@@ -1,0 +1,3 @@
+
+class AddHelmetForm:
+    pass
